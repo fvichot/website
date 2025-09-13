@@ -7,7 +7,7 @@ footer = false
 
 name = "Florian Vichot"
 id = "fvichot"
-bio = "This is my corner of the web"
+bio = "This is my corner of the web 😎"
 avatar = "img/tetocarre.jpg"
 links = [
   { name = "GitHub", icon = "github", url = "https://github.com/fvichot" },
