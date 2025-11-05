@@ -5,9 +5,9 @@ template = 'home.html'
 
 footer = false
 
-name = "Florian Vichot"
+name = "CO² and electrons"
 id = "fvichot"
-bio = "This is my corner of the web 😎"
+bio = "Climate change, the energy transition, computers and democracy"
 avatar = "img/tetocarre.jpg"
 links = [
   { name = "GitHub", icon = "github", url = "https://github.com/fvichot" },
