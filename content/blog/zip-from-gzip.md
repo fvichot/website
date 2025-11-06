@@ -178,3 +178,5 @@ Python 3.13:
 ...
 3 passed in 0.35s
 ```
+
+The code is available [here](https://github.com/fvichot/zip-from-gzip).
