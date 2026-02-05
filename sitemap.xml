@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://flo.id.au/</loc>
+    </url>
+    <url>
+        <loc>https://flo.id.au/blog/</loc>
+    </url>
+    <url>
+        <loc>https://flo.id.au/blog/zip-from-gzip/</loc>
+        <lastmod>2025-09-24</lastmod>
+    </url>
+    <url>
+        <loc>https://flo.id.au/tags/</loc>
+    </url>
+    <url>
+        <loc>https://flo.id.au/tags/code/</loc>
+    </url>
+</urlset>
