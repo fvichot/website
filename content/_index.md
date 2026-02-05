@@ -5,16 +5,16 @@ template = 'home.html'
 
 footer = false
 
-name = "CO² and electrons"
+name = "Bits, electrons and CO²"
 id = "fvichot"
-bio = "Climate change, the energy transition, computers and democracy"
+bio = "My ramblings on computers, climate change, the energy transition, and democracy"
 avatar = "img/tetocarre.jpg"
 links = [
   { name = "GitHub", icon = "github", url = "https://github.com/fvichot" },
-  { name = "Mastodon", icon = "mastodon", url = "https://aus.social/@fvichot" },
+  { name = "Mastodon", icon = "mastodon", url = "https://aus.social/@fvichot", rel_me = true },
 ]
 
-recent = false
+recent = true
 recent_max = 5
 recent_more_text = "more »"
 
